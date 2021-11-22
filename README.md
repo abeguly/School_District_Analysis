@@ -8,11 +8,11 @@ Based on our analysis we noted the following:
 * Per district summaries below, we can see that the updated overall performance for math and reading scores without the Thomas High Schools results are slightly lower than the original results. 
 
 ###District Summary Updated
-<img src = "resources/District_Summary_New.png">
+<img src = "Resources/District_Summary_New.png">
  
 
 ###District Summary Original
-<img src = "resources/District_Summary_Old.png">
+<img src = "Resources/District_Summary_Old.png">
 
 *	In relation to the Thomas school summary performance, we can see that the results are also insignificantly changed. Overall passing % decreased from 90.95% to 90.63%
 
