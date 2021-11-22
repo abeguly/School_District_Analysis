@@ -14,6 +14,8 @@ District Summary Updated
 District Summary Original
 <img src = "Resources/District _Summary_Old.png">
 
+
+
 *	In relation to the Thomas school summary performance, we can see that the results are also insignificantly changed. Overall passing % decreased from 90.95% to 90.63% as shown below.
 
 School Summary Updated
@@ -22,6 +24,8 @@ School Summary Updated
 
 School Summary Original
 <img src = "Resources/School_Summary_Old.png">
+
+
 
  
 *	Even with replaced 9th graders results, Thomas High School is still a top second school in the rating, as shown below. 
@@ -32,7 +36,9 @@ Top schools listing Updated
  
 Top schools listing Original
 <img src = "Resources/Top_School_Listing_Old.png">
- 
+
+
+
 ## Summary
 
 Based on our analysis above, we concluded that the replacement of the Thomas High School 9th graders does not significantly impact the overall performance of the school. Thomas High School is still a top second performed among other 14 schools. 
