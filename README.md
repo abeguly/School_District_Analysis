@@ -7,23 +7,23 @@ The purpose of the below analysis is to perform an overview of the 15 high schoo
 Based on our analysis we noted the following: 
 * Per district summaries below, we can see that the updated overall performance for math and reading scores without the Thomas High Schools results are slightly lower than the original results. 
 
-### District Summary Updated
+District Summary Updated
  
 
-### District Summary Original
+District Summary Original
 
 *	In relation to the Thomas school summary performance, we can see that the results are also insignificantly changed. Overall passing % decreased from 90.95% to 90.63%
 
-### School Summary Updated
+School Summary Updated
  
 
-### School Summary Original
+School Summary Original
  
 *	Even with replaced 9th graders results, Thomas High School is still a top second school in the rating. 
 
-### Top schools listing Updated
+Top schools listing Updated
  
-### Top schools listing Original
+Top schools listing Original
  
 ## Summary
 
