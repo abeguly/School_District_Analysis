@@ -12,20 +12,26 @@ District Summary Updated
  
 
 District Summary Original
-<img src = "RResources/District _Summary_Old.png">
+<img src = "Resources/District _Summary_Old.png">
 
-*	In relation to the Thomas school summary performance, we can see that the results are also insignificantly changed. Overall passing % decreased from 90.95% to 90.63%
+*	In relation to the Thomas school summary performance, we can see that the results are also insignificantly changed. Overall passing % decreased from 90.95% to 90.63% as shown below.
 
 School Summary Updated
- 
+<img src = "Resources/School_Summary_New.png">
+
 
 School Summary Original
+<img src = "Resources/School_Summary_Old.png">
+
  
-*	Even with replaced 9th graders results, Thomas High School is still a top second school in the rating. 
+*	Even with replaced 9th graders results, Thomas High School is still a top second school in the rating, as shown below. 
 
 Top schools listing Updated
+<img src = "Resources/Top_Schoold_Listing_New.png">
+
  
 Top schools listing Original
+<img src = "Resources/Top_School_Listing_Old.png">
  
 ## Summary
 
